@@ -1,0 +1,26 @@
+#+title: Backgrounds
+#+OPTIONS: f:t
+
+-----
+
+* Summary
+
+Collection of wallpapers (and their licenses) that I found.
+
+-----
+
+* Installation
+
+Just clone this repository under your =XDG_PICTURES_DIR=.
+
+* Themes
+
+** Software
+
+- [[https://git.savannah.gnu.org/cgit/guix/guix-artwork.git][Guix]][fn:1]
+
+-----
+
+* References
+
+[fn:1] Courtès, L. (2024) “Guix/guix-artwork.” Free Software Foundation. Available at: https://git.savannah.gnu.org/cgit/guix/guix-artwork.git (Accessed: February 10, 2025).
